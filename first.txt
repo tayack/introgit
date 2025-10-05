@@ -1,2 +1,4 @@
 ぎっとの練習
 aaaa
+git add
+git commit
